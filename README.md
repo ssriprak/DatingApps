@@ -8,10 +8,14 @@ This project focuses on analyzing user reviews from three major dating apps: Hin
 Dating App Reviews Cleaning - 1.ipynb
 Purpose: Data cleaning and preprocessing.
 Key Tasks:
-	Imported the dataset containing 10,000+ user reviews.
+	Imported the dataset containing 10,000+ user reviews
+ 
 	Handled missing data (20% of records) and removed duplicates for a clean dataset.
+ 
 	Renamed columns and standardized formats to prepare the data for analysis.
+ 
 	Performed initial exploratory analysis to identify data trends.
+ 
 Running Models on Reviews.ipynb
 Purpose: Sentiment classification and visualization.
 Key Tasks:
